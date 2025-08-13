@@ -139,7 +139,7 @@
     width:2.75rem;
     aspect-ratio:1;
     text-align:center;
-    background:#ffe390;
+    background:#99d9fd; // 다크모드, 검색버튼색
     border:none;
     border-radius:50%;
     margin-left:1rem;
@@ -156,12 +156,12 @@
   @keyframes leaves {
     0% {
       transform:scale(1.0);
-      background:#ffe390;
+      background:#99d9fd; // 다크모드, 검색버튼색
     }
     100% {
       transform:scale(1.25);
-      background:#ffd044;
-    }
+      background:#99c8fd; // 다크모드, 검색버튼색 마우스 올렸을 때
+    } 
   }
 
   svg {
