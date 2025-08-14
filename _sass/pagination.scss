@@ -82,9 +82,9 @@
   }
   .title_post:hover,
   .category:hover {
-    color:$color-rose;
+    color:#11a8ff; //타이틀 마우스 올렸을 때 색
   }
-  .category{ color:mediumseagreen !important; }
+  .category{ color:rgb(27, 171, 255) !important; }
 
   .txt_post {
     display:-webkit-box;
