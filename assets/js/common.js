@@ -357,5 +357,3 @@ function searchRelated(pages){
     }
 }
 
-<script data-goatcounter="https://flyingjoojak.goatcounter.com/count"
-async src="//gc.zgo.at/count.js"></script>
